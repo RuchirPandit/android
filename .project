@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>SimpleToDo</name>
+=======
+	<name>com.codepath.example.mysecondapp</name>
+>>>>>>> b5a6e92f6cd24762b45d332996018ce7659133a3
 	<comment></comment>
 	<projects>
 	</projects>

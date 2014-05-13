@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <resources>
 
     <string name="app_name">SimpleToDo</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+=======
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">com.codepath.example.mysecondapp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="click_me">click_me!</string>
+    <string name="flower">I am learning Android and excited to code adroid apps. Hopefully I will have wonderful time learning Android.</string>
+    <string name="instrutions">instrutions</string>
+    <string name="action_settings">Settings</string>
+   <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="instructions">instructions!</string>
+
+    
+ 
+>>>>>>> b5a6e92f6cd24762b45d332996018ce7659133a3
 
 </resources>
